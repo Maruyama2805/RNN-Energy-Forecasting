@@ -41,7 +41,7 @@ As métricas foram calculadas na **escala original (Watts)**, revertidas pelo `s
 
 O gráfico abaixo mostra um trecho das previsões no conjunto de teste, revertidas para a escala original (Watts), demonstrando a aderência do modelo à série temporal.
 
-
+<img width="1266" height="630" alt="image" src="https://github.com/user-attachments/assets/7183f046-28c3-40fa-9c27-cae3d3fb9013" />
 
 ---
 
