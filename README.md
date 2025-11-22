@@ -1,6 +1,6 @@
 ## ⚡ Previsão de Consumo de Energia com Redes Neurais Recorrentes (LSTM)
 
-Este projeto implementa e documenta a construção de um modelo de **Rede Neural Recorrente (LSTM)** para a previsão de séries temporais, especificamente focado no consumo de energia de eletrodomésticos (`Appliances`)
+Este projeto utiliza uma rede neural Long Short-Term Memory (LSTM) para prever o consumo de energia de eletrodomésticos. O modelo foi treinado com o dataset "Appliances Energy Prediction" (ID 374) do UCI Machine Learning Repository, que fornece dados temporais e variáveis ambientais. A abordagem LSTM é ideal para capturar as dependências sequenciais complexas no consumo de energia, oferecendo previsões de alta precisão.
 
 O ponto crucial deste trabalho reside na **metodologia rigorosa de pré-processamento** para garantir que o modelo não sofra com **"data leakage" (vazamento de dados)**, uma falha comum em problemas de séries temporais.
 
